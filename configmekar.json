@@ -1,0 +1,166 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1234526407241652_1234526877241605",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1234526407241652_1234526957241597",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1234526407241652_1234527040574922",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1a6912d95",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Mekar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Tentang Aplikasi Mekar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F1%20Tentang%20Aplikasi%20Mekar%20Pinjaman%20Online.html?alt=media&token=60b5161e-d9c2-4de2-b38e-0ff7fdf883ec",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Cara Daftar Mekar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F2%20Cara%20Daftar%20Mekar%20Pinjaman%20Online.html?alt=media&token=dd83c517-c8f9-4d7c-8a38-0e279814fcf7",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Daftar Tenor dan Bunga Aplikasi Mekar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F3%20Daftar%20Tenor%20dan%20Bunga%20Aplikasi%20Mekar.html?alt=media&token=dbf949b8-dc21-4b42-9014-542d889a6283",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Kelebihan Dan Kekurangan Aplikasi Mekar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F4%20Kelebihan%20Dan%20Kekurangan%20Aplikasi%20Mekar%20Pinjaman%20Online.html?alt=media&token=b4587429-a05a-458b-984e-ba84ac38299e",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Info Daftar Lender Pinjaman Tenor Harian",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F5%20Info%20Daftar%20Lender%20Pinjaman%20Tenor%20Harian.html?alt=media&token=d99bfadf-3d8c-49e5-9759-0591f29ad3e4",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Info Daftar Lender Pinjaman Tenor Mingguan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F6%20Info%20Daftar%20Lender%20Pinjaman%20Tenor%20Mingguan.html?alt=media&token=ed0a5652-bcc3-4e5f-975c-336f400e4295",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Info Daftar Lender Pinjaman Bunga Rendah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F7%20Info%20Daftar%20Lender%20Pinjaman%20Bunga%20Rendah.html?alt=media&token=a470cbc0-3069-4a60-ab9a-c84519e026ec",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Tips Cara Manajemen Membayaran Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F8%20Tips%20Cara%20Manajemen%20Membayaran%20Pinjaman%20Online.html?alt=media&token=0f1821ef-f991-44df-adaa-25e0f0670cac",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Ini Akibat Jika Tidak Membayar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F9%20Ini%20Akibat%20Jika%20Tidak%20Membayar%20Pinjaman%20Online.html?alt=media&token=50f46b7a-5923-4238-837f-f5010993ac12",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Daftar Bank yang Memberikan Pinjaman Tanpa Agunan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F10%20Daftar%20Bank%20yang%20Memberikan%20Pinjaman%20Tanpa%20Agunan.html?alt=media&token=2a05ecb0-529d-4e62-80a4-8a6c7c09772f",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Tips Mengenali Pinjaman Online yang Aman",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F11%20Tips%20Mengenali%20Pinjaman%20Online%20yang%20Aman.html?alt=media&token=008eb876-ef44-487e-ad17-2e6572467859",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online Mekar",
+      "title": "Tips Terhindar dari Gagal Bayar Galbay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2Fbnnermkar.png?alt=media&token=1df94b18-1334-4781-baea-901fe210f360",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/mekarpinj%2F12%20Tips%20Terhindar%20dari%20Gagal%20Bayar%20Galbay.html?alt=media&token=c72e6a32-aa78-4047-840d-eab22e0d0d72",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
